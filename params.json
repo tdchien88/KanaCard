@@ -1,6 +1,6 @@
 {
   "name": "Kanacard",
   "tagline": "Learn Hiragana and Katakana Japanese",
-  "body": "# KanaCard\r\nLearn Hiragana and Katakana Japanese\r\n\r\n\r\n\r\nTry it here: http://tdchien88.github.io/KanaCard\r\n\r\nOnsen UI 2.0: https://onsen.io/guide/overview.html\r\n",
+  "body": "# KanaCard\r\n## Learn Hiragana and Katakana Japanese\r\n\r\n\r\n\r\nTry it here: http://tdchien88.github.io/KanaCard\r\n\r\nOnsen UI 2.0: https://onsen.io/guide/overview.html\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
