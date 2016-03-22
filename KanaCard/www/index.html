@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html ng-csp>
 <head>
     <meta charset="utf-8">
@@ -14,7 +14,13 @@
     </script>
 </head>
 <body>
-    <ons-navigator var="myNavigator" page="page1.html">
+    <div ons-loading-placeholder="welcome.html">
+        Loading My Application...
+    </div>
+   
+   <ons-navigator title="Navigator" var="myNavigator" page="page1.html">
     </ons-navigator> 
+
+
 </body>
 </html>

@@ -87,8 +87,7 @@
       <path>/config.xml</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635942410110388737</lastModified>
     </Content>
     <Content Include="ios\MonacaApp-Info.plist">
       <type>file</type>
@@ -768,7 +767,7 @@
     <Content Include="www\index.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>58776ff7</hash>
+      <hash>2733ef26</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -777,8 +776,7 @@
       <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635942613758723077</lastModified>
     </Content>
     <Content Include="www\js\winstore-jscompat.js">
       <type>file</type>
@@ -798,7 +796,7 @@
     <Content Include="www\page1.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>398171b6</hash>
+      <hash>e7f0d2ef</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -807,13 +805,12 @@
       <path>/www/page1.html</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635942556537627941</lastModified>
     </Content>
     <Content Include="www\page2.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>acee0470</hash>
+      <hash>40dfa91f</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -822,19 +819,32 @@
       <path>/www/page2.html</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635942556138852986</lastModified>
     </Content>
     <Content Include="www\README.md">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>61a260e4</hash>
+      <hash>72368980</hash>
       <icon>
       </icon>
       <mime>text/markdown</mime>
       <os>
       </os>
       <path>/www/README.md</path>
+      <remark>
+      </remark>
+      <lastModified>635942334015143610</lastModified>
+    </Content>
+    <Content Include="www\welcome.html">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>8ca14e83</hash>
+      <icon>
+      </icon>
+      <mime>text/html</mime>
+      <os>
+      </os>
+      <path>/www/welcome.html</path>
       <remark>
       </remark>
       <lastModified>
