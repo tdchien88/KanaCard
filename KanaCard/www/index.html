@@ -14,7 +14,16 @@
     </script>
 </head>
 <body>
-    <ons-navigator var="myNavigator" page="page1.html">
+    <div ons-loading-placeholder="start.html">
+        Loading My Application...
+    </div>
+    <ons-template id="start.html">
+        <div>Welcome to my app!</div>
+    </ons-template>
+
+   <ons-navigator title="Navigator" var="myNavigator" page="page1.html">
     </ons-navigator> 
+
+
 </body>
 </html>
