@@ -767,7 +767,7 @@
     <Content Include="www\index.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>4514e019</hash>
+      <hash>2733ef26</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -776,7 +776,7 @@
       <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>635942560442799097</lastModified>
+      <lastModified>635942613758723077</lastModified>
     </Content>
     <Content Include="www\js\winstore-jscompat.js">
       <type>file</type>
@@ -834,6 +834,21 @@
       <remark>
       </remark>
       <lastModified>635942334015143610</lastModified>
+    </Content>
+    <Content Include="www\welcome.html">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>8ca14e83</hash>
+      <icon>
+      </icon>
+      <mime>text/html</mime>
+      <os>
+      </os>
+      <path>/www/welcome.html</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
     </Content>
   </ItemGroup>
   <ItemGroup>
