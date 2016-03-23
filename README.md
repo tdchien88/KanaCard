@@ -9,6 +9,6 @@ Monaca : https://monaca.io/
 
 Onsen UI 2.0: https://onsen.io/guide/overview.html
 
-
+Ionicons : http://ionicons.com/
 
 
