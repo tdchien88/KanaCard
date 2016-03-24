@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.11/angular.min.js"></script>
+
+    <script src="script.js"></script>
+</head>
+<body>
+    <script>
+  // Code goes here
+var myApp = angular.module('Onsen', []);
+
+myApp.controller('clickCtrl', function($scope){
+
+$scope.dynamic = "red";
+
+$scope.changeToRed = function(){
+  $scope.dynamic = "red";
+}
+
+$scope.changeToGreen = function(){
+  $scope.dynamic = "green";
+}
+
+$scope.changeToBlue = function(){
+  $scope.dynamic = "blue";
+}
+
+});
+    </script>
+    <div ng-app="Onsen">
+        <div ng-controller="clickCtrl">
+            <span ng-class="dynamic">{{dynamic}}Onsen UI</span><br />
+            <button ng-click="changeToRed()">Red</button>
+            <button ng-click="changeToGreen()">Green</button>
+            <button ng-click="changeToBlue()">Blue</button>
+        </div>
+    </div>
+</body>
+</html>

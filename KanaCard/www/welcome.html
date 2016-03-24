@@ -1,3 +1,18 @@
 <ons-page>
-    <div style="background-color:red">Welcome to KanaCard!</div>
+    <div class="header">Welcome to KanaCard!</div>
+
+    <ons-list>
+        <ons-list-item modifier="chevron" onclick="myNavigator.pushPage('play.html', { closeMenu: true })">
+            <div class="border-menu-item-icon"><ons-icon icon="ion-ios-game-controller-a-outline" size="30px"></div><div class="border-menu-item-text">Play</div>
+        </ons-list-item>
+        <ons-list-item modifier="chevron" onclick="myNavigator.pushPage('score.html', { closeMenu: true })">
+            <div class="border-menu-item-icon"><ons-icon icon="ion-ribbon-a" size="30px"></div><div class="border-menu-item-text">Score</div>
+        </ons-list-item>
+        <ons-list-item modifier="chevron" onclick="myNavigator.pushPage('option.html', { closeMenu: true })">
+            <div class="border-menu-item-icon"><ons-icon icon="ion-android-options" size="30px"></div><div class="border-menu-item-text">Option</div>
+        </ons-list-item>
+        <ons-list-item modifier="chevron" onclick="myNavigator.pushPage('about.html', { closeMenu: true })">
+            <div class="border-menu-item-icon"><ons-icon icon="ion-information-circled" size="30px"></div><div class="border-menu-item-text">About</div>
+        </ons-list-item>
+    </ons-list>
 </ons-page>

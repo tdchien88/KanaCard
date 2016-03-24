@@ -752,7 +752,7 @@
     <Content Include="www\css\style.css">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>00000000</hash>
+      <hash>dfa53739</hash>
       <icon>
       </icon>
       <mime>text/css</mime>
@@ -761,13 +761,44 @@
       <path>/www/css/style.css</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635944385072615647</lastModified>
+    </Content>
+    <Content Include="www\donation.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>b1be2059</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/donation.html</path>
+      <remark>
+      </remark>
+      <lastModified>635944370503346776</lastModified>
+    </Content>
+    <Content Include="www\gameplay.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>ccc65734</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/gameplay.html</path>
+      <remark>
+      </remark>
+      <lastModified>635944377558406396</lastModified>
     </Content>
     <Content Include="www\index.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>2733ef26</hash>
+      <hash>e7ec435c</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -776,7 +807,23 @@
       <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>635942613758723077</lastModified>
+      <lastModified>635944369500731135</lastModified>
+    </Content>
+    <Content Include="www\js\play.js">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>320ff0f0</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/js/play.js</path>
+      <remark>
+      </remark>
+      <lastModified>635944378019637808</lastModified>
     </Content>
     <Content Include="www\js\winstore-jscompat.js">
       <type>file</type>
@@ -793,33 +840,83 @@
       <lastModified>
       </lastModified>
     </Content>
-    <Content Include="www\page1.html">
+    <Content Include="www\loading.html">
+      <SubType>Content</SubType>
       <type>file</type>
-      <deletable>True</deletable>
-      <hash>e7f0d2ef</hash>
+      <deletable>true</deletable>
+      <hash>787b7879</hash>
       <icon>
       </icon>
-      <mime>text/html</mime>
+      <mime>
+      </mime>
       <os>
       </os>
-      <path>/www/page1.html</path>
+      <path>/www/loading.html</path>
       <remark>
       </remark>
-      <lastModified>635942556537627941</lastModified>
+      <lastModified>635943468574664181</lastModified>
     </Content>
-    <Content Include="www\page2.html">
+    <Content Include="www\menu.html">
+      <SubType>Content</SubType>
       <type>file</type>
-      <deletable>True</deletable>
-      <hash>40dfa91f</hash>
+      <deletable>true</deletable>
+      <hash>011097e1</hash>
       <icon>
       </icon>
-      <mime>text/html</mime>
+      <mime>
+      </mime>
       <os>
       </os>
-      <path>/www/page2.html</path>
+      <path>/www/menu.html</path>
       <remark>
       </remark>
-      <lastModified>635942556138852986</lastModified>
+      <lastModified>635943424107726105</lastModified>
+    </Content>
+    <Content Include="www\option.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>0424e981</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/option.html</path>
+      <remark>
+      </remark>
+      <lastModified>635943416749462594</lastModified>
+    </Content>
+    <Content Include="www\play.html">
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>059607fc</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/play.html</path>
+      <remark>
+      </remark>
+      <lastModified>635944374225531442</lastModified>
+    </Content>
+    <Content Include="www\about.html">
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>bfffc21a</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/about.html</path>
+      <remark>
+      </remark>
+      <lastModified>635943416535110972</lastModified>
     </Content>
     <Content Include="www\README.md">
       <type>file</type>
@@ -835,10 +932,42 @@
       </remark>
       <lastModified>635942334015143610</lastModified>
     </Content>
+    <Content Include="www\resources\fonts\honokamin.ttf">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>ad757ab7</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/resources/fonts/honokamin.ttf</path>
+      <remark>
+      </remark>
+      <lastModified>635479117800000000</lastModified>
+    </Content>
+    <Content Include="www\score.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>98e566b7</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/score.html</path>
+      <remark>
+      </remark>
+      <lastModified>635943416674350831</lastModified>
+    </Content>
     <Content Include="www\welcome.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>8ca14e83</hash>
+      <hash>e36e9b68</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -847,8 +976,7 @@
       <path>/www/welcome.html</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635944347111057481</lastModified>
     </Content>
   </ItemGroup>
   <ItemGroup>
@@ -1166,6 +1294,34 @@
       </remark>
       <lastModified>
       </lastModified>
+    </Folder>
+    <Folder Include="www\resources">
+      <type>dir</type>
+      <deletable>true</deletable>
+      <hash>RENAMED</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/resources</path>
+      <remark>
+      </remark>
+    </Folder>
+    <Folder Include="www\resources\fonts">
+      <type>dir</type>
+      <deletable>true</deletable>
+      <hash>RENAMED</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/resources/fonts</path>
+      <remark>
+      </remark>
     </Folder>
   </ItemGroup>
   <Target Name="Build" />

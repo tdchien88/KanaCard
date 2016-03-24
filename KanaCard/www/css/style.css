@@ -1,0 +1,113 @@
+@font-face {
+font-family: "honokamin";
+src: url("../resources/fonts/honokamin.ttf") format("opentype");   
+    /* Make sure you defined the correct path, which is related to
+        the location of your file `my_css.css` */ 
+}
+
+div{
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+
+body{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.page__background{
+    background-color:whitesmoke
+}
+
+
+.list__item.ons-list-item-inner.list__item--chevron {
+    background-color:dimgray;
+    font-size:medium;
+    color:whitesmoke;
+}
+
+.border-menu-item-icon{
+    width:30px;
+    height:30px;
+    border:1px solid #ffffff;
+    border-radius: 40px;
+    background-color: dimgray;
+    position:absolute;
+    text-align: center;
+    top: 6px;
+    margin: 0px 10px 0px 10px;
+
+}
+.border-menu-item-text{
+    left:80px;
+    position:fixed;
+    font-size:20px;
+}
+.ons-icon{
+    position: fixed;
+    left: 23px;
+}
+.ion-ribbon-a{
+     left: 26px;
+}
+
+.header{
+    height:100px;
+    text-align:center;
+    top:100px;
+    font-size: 30px;
+    margin-top: 100px;
+    color: #999;
+}
+
+.content{
+    height:100%;
+}
+
+.question{
+    height:45%;
+    background-color:red;
+}
+
+.question-char{
+    background-color: blue;
+    border-radius: 30px;
+    font-family: honokamin;
+    font-size: 230px;
+    line-height: 150px;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    height: 35%;
+    width: 80%;
+}
+
+.answers{
+    background-color:yellow;
+    height:47%;
+    font-family: honokamin;
+}
+
+.answer{
+  background-color:green;
+  border-radius: 20px;
+  display: block;
+  float: left;
+  height: 40%;
+  width: 41%;
+  margin: 3% 4%;
+  font-family: honokamin;
+  font-size: 100px;
+  line-height: 90px;
+  text-align:center;
+}
+
+.answer:hover{
+  background-color:white;
+  font-size: 130px;
+}
