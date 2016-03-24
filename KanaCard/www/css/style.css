@@ -8,6 +8,16 @@ src: url("../resources/fonts/honokamin.ttf") format("opentype");
 div{
     font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
 }
+
+body{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
 .page__background{
     background-color:whitesmoke
 }
@@ -96,6 +106,7 @@ div{
   line-height: 90px;
   text-align:center;
 }
+
 .answer:hover{
   background-color:white;
   font-size: 130px;

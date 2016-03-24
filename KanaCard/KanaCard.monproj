@@ -752,7 +752,7 @@
     <Content Include="www\css\style.css">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>5af5c85f</hash>
+      <hash>dfa53739</hash>
       <icon>
       </icon>
       <mime>text/css</mime>
@@ -761,13 +761,13 @@
       <path>/www/css/style.css</path>
       <remark>
       </remark>
-      <lastModified>635943477734336423</lastModified>
+      <lastModified>635944385072615647</lastModified>
     </Content>
     <Content Include="www\donation.html">
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
-      <hash>3c5d2289</hash>
+      <hash>b1be2059</hash>
       <icon>
       </icon>
       <mime>
@@ -777,12 +777,28 @@
       <path>/www/donation.html</path>
       <remark>
       </remark>
-      <lastModified>635943308877909218</lastModified>
+      <lastModified>635944370503346776</lastModified>
+    </Content>
+    <Content Include="www\gameplay.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>ccc65734</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/gameplay.html</path>
+      <remark>
+      </remark>
+      <lastModified>635944377558406396</lastModified>
     </Content>
     <Content Include="www\index.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>bc20ff3c</hash>
+      <hash>e7ec435c</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -791,7 +807,23 @@
       <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>635943445158387664</lastModified>
+      <lastModified>635944369500731135</lastModified>
+    </Content>
+    <Content Include="www\js\play.js">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>320ff0f0</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/js/play.js</path>
+      <remark>
+      </remark>
+      <lastModified>635944378019637808</lastModified>
     </Content>
     <Content Include="www\js\winstore-jscompat.js">
       <type>file</type>
@@ -859,7 +891,7 @@
     <Content Include="www\play.html">
       <type>file</type>
       <deletable>true</deletable>
-      <hash>204d67d6</hash>
+      <hash>059607fc</hash>
       <icon>
       </icon>
       <mime>
@@ -869,7 +901,7 @@
       <path>/www/play.html</path>
       <remark>
       </remark>
-      <lastModified>635943476383543074</lastModified>
+      <lastModified>635944374225531442</lastModified>
     </Content>
     <Content Include="www\about.html">
       <type>file</type>
@@ -944,7 +976,7 @@
       <path>/www/welcome.html</path>
       <remark>
       </remark>
-      <lastModified>635943424507463543</lastModified>
+      <lastModified>635944347111057481</lastModified>
     </Content>
   </ItemGroup>
   <ItemGroup>
