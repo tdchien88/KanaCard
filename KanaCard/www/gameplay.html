@@ -2,25 +2,27 @@
 <html  style="height:100%; width:100%">
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.11/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
     <script src="js/play.js"></script>
 </head>
 <body style="height:100%; width:100%"  ng-app="kanaCardApp">
  
+
     <div  class="content" ng-controller="FirstCtrl">
         <div class="question">
-            <div class="question-char" >
+            <div id="question" class="question-char" ng-click="clickQ()"  data-ng-init="init()">
                 {{question}}
             </div>
         </div>
         <div class="answers">
-            <div class="answer" ng-click="click1()">A</div>
-            <div class="answer" ng-click="click2()">I</div>
-            <div class="answer" ng-click="click3()">U</div>
-            <div class="answer" ng-click="click4()">O</div>
+            <div class="answer" ng-click="click1()" ng-model="ans1">{{ans1}}</div>
+            <div class="answer" ng-click="click2()" ng-model="ans2">{{ans2}}</div>
+            <div class="answer" ng-click="click3()" ng-model="ans3">{{ans3}}</div>
+            <div class="answer" ng-click="click4()" ng-model="ans4">{{ans4}}</div>
         </div>
         <div style="text-align: center; padding-top: 1px;">
-            I am a CHICKEN !!!
+           {{goals}}
         </div>
     </div>
 </body>
