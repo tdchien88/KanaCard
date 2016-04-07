@@ -783,7 +783,7 @@
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
-      <hash>ccc65734</hash>
+      <hash>03931eb8</hash>
       <icon>
       </icon>
       <mime>
@@ -793,12 +793,12 @@
       <path>/www/gameplay.html</path>
       <remark>
       </remark>
-      <lastModified>635944377558406396</lastModified>
+      <lastModified>635956288915526194</lastModified>
     </Content>
     <Content Include="www\index.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>e7ec435c</hash>
+      <hash>9b9282ad</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -807,13 +807,13 @@
       <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>635944369500731135</lastModified>
+      <lastModified>635956254080709771</lastModified>
     </Content>
     <Content Include="www\js\play.js">
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
-      <hash>320ff0f0</hash>
+      <hash>5d87412f</hash>
       <icon>
       </icon>
       <mime>
@@ -823,7 +823,7 @@
       <path>/www/js/play.js</path>
       <remark>
       </remark>
-      <lastModified>635944378019637808</lastModified>
+      <lastModified>635956288995695096</lastModified>
     </Content>
     <Content Include="www\js\winstore-jscompat.js">
       <type>file</type>
@@ -967,7 +967,7 @@
     <Content Include="www\welcome.html">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>e36e9b68</hash>
+      <hash>7de135f9</hash>
       <icon>
       </icon>
       <mime>text/html</mime>
@@ -976,7 +976,7 @@
       <path>/www/welcome.html</path>
       <remark>
       </remark>
-      <lastModified>635944347111057481</lastModified>
+      <lastModified>635956200546484083</lastModified>
     </Content>
   </ItemGroup>
   <ItemGroup>

@@ -102,12 +102,12 @@ body{
   width: 41%;
   margin: 3% 4%;
   font-family: honokamin;
-  font-size: 100px;
+  font-size: 70px;
   line-height: 90px;
   text-align:center;
 }
 
 .answer:hover{
   background-color:white;
-  font-size: 130px;
+  font-size: 75px;
 }
